@@ -20,7 +20,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>::Inicio::</title>
+	<title>::Pantalla de inicio::</title>
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/materialize.min.css">
 	<meta charset="utf-8">
